@@ -1778,7 +1778,7 @@ for await (const result of dnsResults) {
 ### `readable.forEach(fn[, options])`
 
 <!-- YAML
-added: REPLACEME
+added: v16.14.1
 -->
 
 > Stability: 1 - Experimental
